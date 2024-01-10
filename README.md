@@ -1,0 +1,1 @@
+MATLAB code that employs an extrapolation-based Successive Over-Relaxation (SOR) method in conjunction with finite difference methods for pricing European put options. Cite: Accelerated Solutions for Discretized Black-Scholes Equations: Numerical Experiments and Case Study, IMA Journal of Management Mathematics, 2024.
